@@ -1,0 +1,38 @@
+1. Write a program to calculate the BMI. BMI formula is as given below -
+
+BMI = weight (kg) ÷ height2 (m2)
+
+2. Write a program to find the prime Number.
+
+3. Write a program to read a text file.
+
+4. Write a program to read a CSV file and print its contents.
+
+5. Write a program to read zoo.csv and calculate water need for every animal.
+
+6. Write a program to create a sqlite database with python.
+
+7. Write a program to create a table in sqlite database and insert some rows into it.
+
+8. Write a program to Create a database in SQL and also create a table and insert some rows into it.
+
+9. This program accepts a sequence of comma separated numbers from user and generates a list and tuple with those numbers.
+
+Input
+
+2, 4, 7, 8, 9, 12
+
+Output
+
+Below is the output of execution of this program.
+
+
+
+10. Return the "centered" average of an array of integers, which we'll say is the mean average of the values, except ignoring the largest and smallest values in the array. If there are multiple copies of the smallest value, ignore just one copy, and likewise for the largest value. Use int division to produce the final average. You may assume that the array is length 3 or more.(Take input from user)
+
+Input
+
+1, 2, 3, 4, 100
+Output
+
+3

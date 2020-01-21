@@ -1,0 +1,37 @@
+************************ Doing all below steps for the first time while using git **************************************
+
+-- create a new account to github.com using your own 
+1. open the link below  - 
+https://github.com/
+
+2. click on the sign up
+
+3. Enter your username that should be new one to create your account
+
+4. Enter email address you are going to use for git 
+
+5. Enter your password
+
+6. solve the given puzzel
+
+7. click on create account
+
+8. verify your email
+
+9. now go again to github and create new repository
+
+10. copy the repository link
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
